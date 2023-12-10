@@ -5,17 +5,6 @@
    <table>
       <tbody>
         <tr>
-          <th align="center">
-            Step 1
-          </th>
-          <th align="center">
-            Step 2
-          </th>
-          <th align="center">
-            Step 3
-          </th>
-        </tr>
-        <tr>
           <td align="center" valign="middle">
             <img src="demo/banner.PNG" />
           </td>
