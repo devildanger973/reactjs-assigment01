@@ -1,7 +1,6 @@
 # reactjs-assigment01
 
 <h3 align="center">
-   <img src="demo/banner.PNG">
    <table>
       <tbody>
         <tr>
@@ -9,10 +8,16 @@
             <img src="demo/banner.PNG" />
           </td>
           <td align="center" valign="middle">
-            <img src="public/readme/step2.png" />
+            <img src="demo/list city.PNG">
           </td>
           <td align="center" valign="middle">
-            <img src="public/readme/camera.png" />
+            <img src="demo/filter by type.PNG">
+          </td>
+          <td align="center" valign="middle">
+            <img src="demo/list favorites.PNG">
+          </td>
+          <td align="center" valign="middle">
+            <img src="demo/footer.PNG">
           </td>
         </tr>
       </tbody>
